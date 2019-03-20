@@ -3,7 +3,7 @@
 ![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/MIT)
 
-# Forge Viewer PropertyDB reader service sample
+# Forge Viewer PropertyDB reader server sample
 
 ## Overview
 
